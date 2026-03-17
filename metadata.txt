@@ -1,0 +1,20 @@
+[general]
+name=PointScreenShoter
+qgisMinimumVersion=3.22
+description=Exports georeferenced map screenshots centered on point features at a chosen scale.
+version=1.0.9
+author=Richard Reichel
+email=risoreichel@gmail.com
+license=MIT
+about=Select a point layer, choose an attribute field for file naming, set scale and output folder, then export one georeferenced screenshot per point using the currently visible map layers and symbology from QGIS.
+tracker=
+repository=
+category=Raster
+tags=screenshot,export,georeference,points,map,world file
+icon=icon.png
+experimental=False
+deprecated=False
+homepage=
+changelog=1.0.9 - toolbar icon only; 
+server=False
+hasProcessingProvider=False
